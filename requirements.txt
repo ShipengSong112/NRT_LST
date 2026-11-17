@@ -1,0 +1,13 @@
+cartopy
+h5py
+matplotlib
+numpy
+pandas
+python-docx
+rasterio
+rioxarray
+scikit-learn
+scipy
+shap
+torch
+xarray

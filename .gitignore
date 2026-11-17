@@ -16,3 +16,15 @@ Thumbs.db
 *.tif
 *.tiff
 output/
+
+# Paper working files excluded from this code-only repository
+AGENTS.md
+Authors and other information.docx
+build_word.bat
+figures/
+manuscript/
+references/
+scripts/
+tables/
+~$*
+结果讨论与结论写作套路.md
